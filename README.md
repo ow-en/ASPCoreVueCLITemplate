@@ -13,8 +13,8 @@
 - install VUE-CLI `npm i -g @vue/cli`
 - open a CLI, in any directory, and type `vue ui`
 - within the vue-cli GUI, create a new project.
-- within the project navigation wizard, navigate to the `AtlasOneCore` directory of this project (the presentation layer)
-- within the `AtlasOneCore` directory, choose vue-cli's output directory as `ClientApp` **important: make sure "overwrite existing folder" option is checked**
+- within the project navigation wizard, navigate to the `VueCLICore` directory of this project (the presentation layer)
+- within the `VueCLICore` directory, choose vue-cli's output directory as `ClientApp` **important: make sure "overwrite existing folder" option is checked**
 - when creating the project, vue-cli GUI will allow you to use a preset, or to manually configure the project setup (and/or create a new preset). Choose manual config.
 - when going through the manual configuration, select everything you want to include in the project. I recommend selecting most of the options, with Mocha for unit testing (VS compatible) and Nightwatch for e2e testing (VS & Selenium compatible)
 - if you are planning on installing the Vuetify plugin after project creation, make sure that you select Stylus as the CSS preprocessor option during project setup.
