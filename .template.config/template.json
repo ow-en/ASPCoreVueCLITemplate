@@ -1,0 +1,8 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Owen Geoghegan",
+  "classifications": [".NET Core 2.1", "Vue.js", "EF Core", "Vuetify"],
+  "identity": "Owen.CoreVueScaffold.CSharp",
+  "name": ".NET Core 2.1 with Vue.js, TypeScript, EF Core (Final)",
+  "shortName": "VueCLINetCoreEFCore"
+}
