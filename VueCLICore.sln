@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VueCLICore", "AtlasOneCore\VueCLICore.csproj", "{19FD8F7F-27B7-428C-B9E0-9D4430F18CC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VueCLICore", "VueCLICore\VueCLICore.csproj", "{19FD8F7F-27B7-428C-B9E0-9D4430F18CC4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{914790C8-B5A9-4460-9E03-297E6DE9A40E}"
 EndProject
